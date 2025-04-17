@@ -13,7 +13,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@analogjs/vite-plugin-nitro": "^1.10.0",
+    "@analogjs/vite-plugin-nitro": "^1.15.0",
     "@types/node": "^20.12.7",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
